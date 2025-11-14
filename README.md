@@ -13,5 +13,3 @@ Para ejecutar correctamente el código del cuaderno **Class_Work_2025_nov_12.ipy
 
 - En la **celda 2**, debes subir el archivo **Mapa UdeA.kml**.  
 - En las **celdas 12 y 14**, debes cargar el archivo **Ruta casa UdeA.kml**.
-
-Asegúrate de subir los archivos antes de ejecutar cada celda para evitar errores.
