@@ -7,7 +7,7 @@ En este repositorio encontrarás tres archivos adjuntos que forman parte del tra
 - **Ruta casa UdeA.kml**  
 - **Mapa UdeA.kml**
 
-## 📌 Instrucciones de uso
+## Instrucciones de uso
 
 Para ejecutar correctamente el código del cuaderno **Class_Work_2025_nov_12.ipynb**, es necesario cargar los archivos KML en las celdas correspondientes:
 
